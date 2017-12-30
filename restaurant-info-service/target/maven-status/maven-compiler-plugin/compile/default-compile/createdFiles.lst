@@ -1,0 +1,10 @@
+demo/domain/Item.class
+demo/RestaurantInfoServiceApplication.class
+demo/service/impl/RestaurantInfoServiceImpl.class
+demo/domain/RestaurantInfo$ParkingType.class
+demo/service/RestaurantInfoService.class
+demo/domain/RestaurantInfo$FoodType.class
+demo/domain/RestaurantInfo$PriceLevel.class
+demo/domain/RestaurantInfo.class
+demo/domain/RestaurantInfoRepository.class
+demo/rest/RestaurantInfoRestController.class
